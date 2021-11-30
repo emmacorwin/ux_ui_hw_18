@@ -71,7 +71,7 @@ img{
     width: 500px;
     margin-left:20px;
     margin-bottom: 20px;
-    margin-right: bottom;
+    margin-right: 20px;
 }
 
 
@@ -130,15 +130,19 @@ ul.bottom{
     }
        #education {
        width: 100%;
+       margin-right: 15px;
        }
        
        #skills {
        width: 100%;
+       margin-right: 15px;
        }
        
        #software {
        width: 100%;
+       margin-right: 15px;
        }
+
 
     #workGrid {
        grid-template-columns: 50%, 50%;
@@ -151,5 +155,26 @@ ul.bottom{
        "description3"
     ;
     }
+
+    #mockup{
+        margin-top: 20px;
+        margin-left: 0;
+        margin-right: 20px;
+    }
+
+    .description1{
+        margin-bottom: 20px;
+    }
+
+    .description2{
+        margin-bottom: 20px;
+    }
+
+    .description3{
+        margin-bottom: 40px;
+    }
+
+    
+
 }
    
