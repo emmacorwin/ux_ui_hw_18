@@ -119,7 +119,9 @@ ul.bottom{
     padding-right: 10px;  
 }
 
-@media only screen and (max-width: 600) {
+@media only screen and (max-width: 600px) {
+
+   
     #flexContainer {
         display: flex;
         flex-direction: column;
